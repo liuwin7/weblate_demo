@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  WeblateDemo
+
+  Created by tropsci on 2020/1/16.
+  Copyright © 2020 RaymedyChina. All rights reserved.
+*/
+
+"hello" = "你好";
