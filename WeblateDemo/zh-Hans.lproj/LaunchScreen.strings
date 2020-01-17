@@ -1,1 +1,11 @@
+/*
+  LaunchScreen.strings
+  WeblateDemo
+
+  Created by tropsci on 2020/1/17.
+  Copyright © 2020 RaymedyChina. All rights reserved.
+*/
+
+/* the title for the username label in the home view */
+"LaunchScreen.username" = "Username";
 
