@@ -7,5 +7,4 @@
 */
 
 /* the title for the username label in the home view */
-"LaunchScreen.username" = "Username";
-
+"LaunchScreen.username" = "用戶名";
