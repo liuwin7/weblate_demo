@@ -6,4 +6,8 @@
   Copyright © 2020 RaymedyChina. All rights reserved.
 */
 
+/* The button title for the main screen */
 "hello" = "你好啊";
+
+/* The label title for the username */
+"username" = "用户名";
