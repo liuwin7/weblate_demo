@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  WeblateDemo
+
+  Created by tropsci on 2020/1/16.
+  Copyright © 2020 RaymedyChina. All rights reserved.
+*/
+
+/* The button title for the main screen */
+"hello" = "Hello";
+
+/* The label title for the username */
+"username" = "Username";
+
+/* The password title */
+"password" = "Password";
