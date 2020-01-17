@@ -11,3 +11,6 @@
 
 /* The label title for the username */
 "username" = "Username";
+
+/* The password title */
+"password" = "Password";
