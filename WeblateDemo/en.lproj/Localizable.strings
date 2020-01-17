@@ -7,7 +7,7 @@
 */
 
 /* The button title for the main screen */
-"hello" = "hello";
+"hello" = "Hello";
 
 /* The label title for the username */
-"username" = "用户名";
+"username" = "Username";
